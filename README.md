@@ -1,5 +1,6 @@
 # edbalandrano.github.io
 About me
+ 
 Eduardo Balandrano is a Point of Sale Coordinator at 1883 Provision Co. in Austin, and previously served as Lead Technical Support Specialist at Focus Restaurant Solutions in the Greater McAllen area. His profile also identifies him as a recent computer engineering graduate with experience in managerial processes and field service environments.
 
 Career timeline
